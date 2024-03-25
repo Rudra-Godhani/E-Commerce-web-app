@@ -13,7 +13,6 @@ function Navbar() {
             <nav className='flex justify-between items-center h-20 max-w-5xl mx-auto'>
                 <NavLink to='/'>
                     <div className='ml-5'>
-                        {/* <img src="logo.png" className="h-14" /> */}
                         <div className='flex justify-center items-center text-green-700 text-[25px]'>
                             <MdShop className='font-extrabold size-16 ' />
                             <div>

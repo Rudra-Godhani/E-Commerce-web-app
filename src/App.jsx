@@ -10,13 +10,6 @@ import Cart from './pages/Cart'
 function App() {
 
   return (
-
-    //counter App code
-
-    // <div>
-    //   <Counter />
-    // </div>
-
     <div className='h-full'>
       <div className='bg-slate-900'>
         <Navbar />

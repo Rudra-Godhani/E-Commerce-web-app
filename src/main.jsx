@@ -10,13 +10,6 @@ import { BrowserRouter } from "react-router-dom"
 import {toast,Toaster} from 'react-hot-toast'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-
-  // counter App code
-
-  // <Provider store={store}>
-  //   <App />
-  // </Provider>
-
   <BrowserRouter>
     <Provider store={store}>
       <App />
