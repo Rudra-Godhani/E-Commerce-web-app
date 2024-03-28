@@ -2,7 +2,7 @@
 
 ### live: https://ecommerce-app3500.netlify.app
 
-![Uploading E-Commerce web app.png…]()
+![E-Commerce web app](https://github.com/Rudra-Godhani/E-Commerce-web-app/assets/139685113/f761818d-4e93-4062-a4e5-44baf31ba886)
 
 
 # React + Vite
