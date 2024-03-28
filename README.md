@@ -1,6 +1,6 @@
 # Welcome to an E-Commerce app
 
-### live: (https://ecommerce-app3500.netlify.app) 
+### live: https://ecommerce-app3500.netlify.app
 
 # React + Vite
 
